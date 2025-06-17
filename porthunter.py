@@ -10,7 +10,7 @@ def show_banner():
  | |  | (_) | |  | |_| |  | | |_| | | | | ||  __/ |   
  |_|   \___/|_|   \__|_|  |_|\__,_|_| |_|\__\___|_|   
                                                       
- created by sudosama-zsh |  waste packets, not time.
+ created by sudosama-cc |  waste packets, not time.
     """
     print(banner)
 
